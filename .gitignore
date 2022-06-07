@@ -72,4 +72,3 @@ config/*.yml
 # Deepcode Cache
 .dccache
 .DS_Store
-kubeconfig_*
